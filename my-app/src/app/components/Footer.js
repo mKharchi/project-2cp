@@ -1,3 +1,11 @@
 export default function Footer() {
-  return <div className="text-center text-xl font-bold">Footer Component</div>;
+
+
+  return (
+  
+  <div className="text-blue  text-xl font-bold">
+  
+  </div>
+
+);
 }
